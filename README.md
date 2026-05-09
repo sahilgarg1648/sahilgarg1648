@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Sahil👋
+# 💫 Hi, I'm Sahil Garg👋
 * 🔭 I’m currently working on Backend Development & Full-Stack Projects
 * 🌱 I’m currently learning AI, System Design, and Advanced Backend Development
 * 👯 I’m looking to collaborate on Open Source and MERN Stack Projects
